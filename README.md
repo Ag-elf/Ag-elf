@@ -1,4 +1,4 @@
-### Hi there 👋
+### Be a happy coding dog
 
 <!--
 **Ag-elf/Ag-elf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ag-elf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ag-elf&count_private=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-elf&count_private=true&hide=Javascript,html,css&layout=compact)
